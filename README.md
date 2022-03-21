@@ -28,7 +28,7 @@
 |blue|'Tie Line 2'|
 
 ### Experimental Procedure
-Determine int time & scans to ave:
+Step 1- Determine int time & scans to ave:
 | V_water/ml | V_toluene/ml | V_ethanol/ml |
 |:-:|:-:|:-:|
 |2|0|0|
@@ -38,6 +38,8 @@ Determine int time & scans to ave:
 Add 2 μL prodan
 Change int time till signal saturation (not background subtracted) & record int time
 Use lowest int time of the 3 pure solvents
+
+Step 2- Measure prodan spectra, pure solv
 
 Dispense the solution mixture for:
 | V_water/ml | V_toluene/ml | V_ethanol/ml |
