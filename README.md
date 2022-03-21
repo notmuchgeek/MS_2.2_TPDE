@@ -20,7 +20,8 @@
  
 4. __Ternary_Phase_Diagram.csv__
   Save all the mass fraction values
- | Colour| Corresponding String |
+
+|Colour| Corresponding String|
 |:-|-:|
 |black|'Binodal'|
 |red|'Tie Line 1'|
