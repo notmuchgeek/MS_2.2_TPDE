@@ -52,7 +52,7 @@ def V_water_toluene_ethanol(V_h2o,V_tol,V_eth):
     frac_eth="{0:.3g}".format(frac_eth)
     return print(
                 'Table format for mass fraction:','|', frac_eth, '|',frac_h20, '|',frac_tol,'|\n',\
-                'Table format for mass fraction:','|', V_h2o, '|',V_tol, '|',V_eth,'|'
+                'Table format for component volume:','|', V_h2o, '|',V_tol, '|',V_eth,'|'
                 )
 
 
