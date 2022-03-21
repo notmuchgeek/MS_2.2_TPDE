@@ -41,18 +41,24 @@ Use lowest int time of the 3 pure solvents
 
 Step 2- Measure prodan spectra, pure solv
 
-Dispense the solution mixture for:
+Step 3- Dispense the solution mixture for (binodal):
 | V_water/ml | V_toluene/ml | V_ethanol/ml |
 |:-:|:-:|:-:|
-|8.0|5.3|9.4|
-|6.0|4.6|12.7|
-|3.0|10.15|10.4|
 |4.0|25.4|upon adding|
 |10.0|11.5|upon adding|
 |10.5|4.9|upon adding|
 |16.5|1.0|upon adding|
 
+Record vol. of ethanol added from burette
+
+Step 4- Dispense the solution mixture for (tie line):
+| V_water/ml | V_toluene/ml | V_ethanol/ml |
+|:-:|:-:|:-:|
+|8.0|5.3|9.4|
+|6.0|4.6|12.7|
+|3.0|10.15|10.4|
+
 ### Other parameters for control
-| Intergration time/ms | Scans to avverage |
+| Intergration time/ms | Scans to average |
 |-:|-:|
 |?|10|
