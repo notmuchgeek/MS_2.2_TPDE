@@ -17,7 +17,15 @@
 
 3. __Tabulation_for_experiment_data_Workbook.ipynb__
   Calculate the mass fraction with the volumes as the input.
-  
+ 
+4. __Ternary_Phase_Diagram.csv__
+  Save all the mass fraction values
+ | Colour| Corresponding String |
+|:-|-:|
+|black|'Binodal'|
+|red|'Tie Line 1'|
+|blue|'Tie Line 2'|
+
 ### Experimental Procedure
 Dispense the solution mixture for:
 | V_water/ml | V_toluene/ml | V_ethanol/ml |
