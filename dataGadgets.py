@@ -33,7 +33,7 @@ def yld_curve_fit_Y(para_curve,wv_fit01,inten_fit01,initGuess:list):
     a_fitted = fit1[0][0]
     b_fitted = fit1[0][1]
     c_fitted = fit1[0][2]
-    return para_curve(wv_fit01,a_fitted,b_fitted,c_fitted) , -b_fitted
+    return para_curve(wv_fit01,a_fitted,b_fitted,c_fitted) , -b_fitted , fit1[1]
 
 
 successImport()
